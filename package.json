@@ -1,0 +1,17 @@
+{
+  "name": "money-tracker-frontend",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Annida",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
